@@ -1,0 +1,8 @@
+E-commerce Platform
+    Features:
+        - User authentication and authorization (customers and admins).
+        - Product listings with categories, search, and filters.
+        - Shopping cart and checkout process with payment integration.
+        - Order management and tracking for users.
+        - Admin dashboard for inventory management, order tracking, and analytics.
+        - Technologies: Django (REST framework), React, Redux, Daraja API for payments.
